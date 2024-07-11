@@ -1,0 +1,12 @@
+[2024-07-03 21:10:27]: [system]: 游戏开始
+[2024-07-03 21:10:28]: [system]: playerA 玩家信息已录入
+[2024-07-03 21:10:28]: [system]: playerA 宝可梦名字：火山弗兰克跺脚已录入
+[2024-07-03 21:10:28]: [system]: playerA 宝可梦初始描述已录入
+[2024-07-03 21:10:37]: [system]: playerA\playerA_monster.jpeg 宝可梦图片已录入
+[2024-07-03 21:10:56]: [system]: playerA 生成了第1个技能图片（playerA_skill_icon1.jpeg）
+[2024-07-03 21:11:07]: [system]: playerA 生成了第2个技能图片（playerA_skill_icon2.jpeg）
+[2024-07-03 21:11:19]: [system]: playerA 生成了第3个技能图片（playerA_skill_icon3.jpeg）
+[2024-07-03 21:11:31]: [system]: 检测到playerB没有写描述，已自动生成描述。
+[2024-07-03 21:11:31]: [system]: playerB 玩家信息已录入
+[2024-07-03 21:11:31]: [system]: playerB 宝可梦名字：健康芦苇已录入
+[2024-07-03 21:11:31]: [system]: playerB 宝可梦初始描述已录入

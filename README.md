@@ -1,7 +1,5 @@
 # AI Pokemon/ AI Pocket Monster/ AI 宝可梦
 
-![图片](https://github.com/GA10d/AI-Pokemon/assets/128725933/dea89d3c-4fee-4a63-bab3-b373fedd81c6)
-
 ## 简介
 	主体部分是通过python（~因为只会这个orz~）实现的，但是main函数则通过ipynb的格式编译以便结果显示和调试。项目大概写了一天半吧，因为我是编程新手，很多代码是直接请教的gpt。AI的API使用的是 *智谱* 的国产大模型（~因为送了Token~），可以自行更换调用模型相关代码（~尤其是绘图的模型，智谱的很垃圾~）。
 	
@@ -13,6 +11,8 @@
 4. 联机功能（写了几行）
 
 ## 宝可梦生成
+
+![图片](https://github.com/GA10d/AI-Pokemon/assets/128725933/dea89d3c-4fee-4a63-bab3-b373fedd81c6)
 
 ### 宝可梦描述
 
@@ -98,3 +98,6 @@ skill2use = random.randint(0,len(movement.skill_name)-1)
 [2024-07-12 00:17:55]: [playerA]: 闪电凤凰 受到25点伤害
 [2024-07-12 00:17:55]: [system]: 水晶哆啦A梦 获胜
 ```
+
+## 智谱的网址
+https://open.bigmodel.cn/overview

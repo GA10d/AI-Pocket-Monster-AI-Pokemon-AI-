@@ -1,0 +1,12 @@
+/.env
+__pycache__/
+*.pyc
+logs/*.log
+logs/*.err.log
+logs/*.out.log
+logs/*.txt
+/*.log
+/*.err.log
+/*.out.log
+!logs/.gitkeep
+/local_data/

@@ -1,0 +1,34 @@
+{
+  "skills": [
+    {
+      "name": "幽电迷影",
+      "description": "释放交织着幽灵能量的电流，制造幻象使敌人陷入混乱，大幅降低其命中率",
+      "element": "electric",
+      "category": "control",
+      "power": 30,
+      "accuracy": 0.85,
+      "effect": "降低对手命中率",
+      "icon_path": null
+    },
+    {
+      "name": "电光潜袭",
+      "description": "化作一道蓝紫色电光瞬间穿越战场，从意想不到的位置突袭对手",
+      "element": "electric",
+      "category": "attack",
+      "power": 70,
+      "accuracy": 0.9,
+      "effect": "先制攻击",
+      "icon_path": null
+    },
+    {
+      "name": "幽灵护盾",
+      "description": "利用幽灵气息与电流编织成防御屏障，吸收部分伤害并反弹电击",
+      "element": "ghost",
+      "category": "defense",
+      "power": 20,
+      "accuracy": 1.0,
+      "effect": "吸收伤害并反弹",
+      "icon_path": null
+    }
+  ]
+}

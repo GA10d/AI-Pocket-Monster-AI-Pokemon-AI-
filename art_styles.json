@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "styles": [
+    {
+      "id": "pixel-8bit",
+      "name": "8-bit Pixel",
+      "prompt": "8-bit pixel art game style, tiny low-resolution sprites, limited NES-inspired color palette, crisp square pixels, simple readable silhouettes, retro RPG battle screen feeling"
+    },
+    {
+      "id": "pixel-16bit",
+      "name": "16-bit Pixel",
+      "prompt": "16-bit pixel art game style, detailed sprite shading, SNES-era fantasy RPG look, vibrant palette, clean pixel clusters, expressive battle-ready character pose"
+    },
+    {
+      "id": "realistic",
+      "name": "Realistic",
+      "prompt": "realistic creature concept art, cinematic game key art, believable anatomy, detailed skin or material textures, dramatic studio lighting, high-detail fantasy monster design"
+    },
+    {
+      "id": "anime-rpg",
+      "name": "Anime RPG",
+      "prompt": "modern anime RPG game art style, clean linework, vibrant cel shading, expressive eyes, polished character rendering, dynamic heroic pose, colorful magical effects"
+    },
+    {
+      "id": "watercolor-fantasy",
+      "name": "Watercolor Fantasy",
+      "prompt": "soft watercolor fantasy game illustration, gentle pigment bleeding, textured paper, whimsical creature design, luminous atmosphere, storybook adventure feeling"
+    },
+    {
+      "id": "low-poly",
+      "name": "Low Poly",
+      "prompt": "stylized low-poly 3D game art, faceted geometry, clean readable shapes, colorful materials, playful fantasy creature, isometric adventure game aesthetic"
+    },
+    {
+      "id": "clay-toy",
+      "name": "Clay Toy",
+      "prompt": "handmade clay toy game art style, soft rounded forms, tactile sculpted texture, miniature collectible creature, warm studio lighting, charming playful mood"
+    },
+    {
+      "id": "dark-souls",
+      "name": "Dark Fantasy",
+      "prompt": "dark fantasy action RPG creature design, ominous atmosphere, weathered armor or organic detail, dramatic rim lighting, imposing boss-like silhouette, gritty painterly concept art"
+    },
+    {
+      "id": "comic-color",
+      "name": "Color Comic",
+      "prompt": "full-color comic book game art, bold outlines, saturated colors, dynamic action pose, graphic impact effects, energetic battle composition, polished digital illustration"
+    },
+    {
+      "id": "ink-brush",
+      "name": "Ink Brush",
+      "prompt": "East Asian ink brush game art style, expressive black brush strokes, controlled ink wash shading, elegant fantasy creature silhouette, minimal color accents, dramatic empty space"
+    },
+    {
+      "id": "cel-shaded-3d",
+      "name": "Cel-shaded 3D",
+      "prompt": "cel-shaded 3D game style, clean toon outlines, bright readable materials, stylized creature model, energetic action pose, modern monster-battling game aesthetic"
+    },
+    {
+      "id": "storybook",
+      "name": "Storybook",
+      "prompt": "storybook game illustration style, charming hand-painted creature, cozy fantasy colors, soft lighting, textured brushwork, friendly adventurous atmosphere"
+    }
+  ]
+}
